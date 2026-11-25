@@ -76,19 +76,19 @@ DAX was used to create dashboard KPIs. The report includes date slicers for inte
 ## Dashboard Screenshots
 
 ### Overall
-![Overall Dashboard](screenshots/overall.png)
+![Overall Dashboard](Screenshots/overall.png)
 
 ### Vehicle Type
-![Vehicle Type Dashboard](screenshots/vehicle_type.png)
+![Vehicle Type Dashboard](Screenshots/vehicle_type.png)
 
 ### Revenue
-![Revenue Dashboard](screenshots/revenue.png)
+![Revenue Dashboard](Screenshots/revenue.png)
 
 ### Cancellation
-![Cancellation Dashboard](screenshots/cancellation.png)
+![Cancellation Dashboard](Screenshots/cancellation.png)
 
 ### Ratings
-![Ratings Dashboard](screenshots/ratings.png)
+![Ratings Dashboard](Screenshots/ratings.png)
 
 ## Selected Dashboard Observations
 Based on the displayed dashboard values:
@@ -132,4 +132,3 @@ These are observations from the dashboard screenshots and are not independently 
 ## Author
 **Data Analytics Portfolio Project**  
 Tools: SQL (MySQL), Power BI, DAX
-
